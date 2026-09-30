@@ -102,13 +102,13 @@ The data, source code, and images in this repository are publicly available for 
 If you use this dataset, photographs, or software in your work, please cite:
 
 ### Research Paper
-> **Authors:** [Insert Paper Authors]  
-> **Title:** [Insert Scientific Paper Title]  
-> **Journal:** [Insert Journal / Conference Name], Year.  
+> **Authors:** [Vandeir Aniceto Pinheiro1*, Angel Pontin Garcia1, Daniel Albiero1, Thais Queiroz Zorzeto Cesar1, Claudio Kiyoshi Umezu1, Eduardo Fernandes Nunes1]  
+> **Title:** [Color Sensor for the Determination of the Ripening Stage of Cherry Tomatoes]  
+> **Journal:** [xxxx Journal / Conference Name], Year.  
 > **Paper DOI:** [`https://doi.org/10.xxxx/xxxxx`](https://doi.org/10.xxxx/xxxxx)
 
 ### Zenodo Dataset Repository
-> **Zenodo DOI:** [`https://doi.org/10.5281/zenodo.xxxxxxx`](https://doi.org/10.5281/zenodo.xxxxxxx)
+> **Zenodo DOI:** [`https://doi.org/10.5281/zenodo.23067950`](https://doi.org/10.5281/zenodo.23067950)
 
 ```bibtex
 @article{tomato_color_sensor_paper,
